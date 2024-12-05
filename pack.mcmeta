@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "name": "WoodCutter",
+        "id": "woodcutter",
+        "pack_format": 12,
+        "authors": [
+            "Nidoskull"
+        ],
+        "description": "A simple datapack that adds wooden recipes to the Stonecutter."
+    }
+}

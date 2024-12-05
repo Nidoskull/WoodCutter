@@ -1,0 +1,1 @@
+This datapack is intended to add stairs and slabs to the Stonecutter from vanilla MC, Vinery, and Tech Reborn.
